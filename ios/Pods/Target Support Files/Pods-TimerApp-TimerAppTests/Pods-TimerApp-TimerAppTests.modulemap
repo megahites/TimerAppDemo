@@ -1,0 +1,6 @@
+module Pods_TimerApp_TimerAppTests {
+  umbrella header "Pods-TimerApp-TimerAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

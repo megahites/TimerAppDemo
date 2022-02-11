@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TimerApp.iml" filepath="$PROJECT_DIR$/.idea/modules/TimerApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TimerApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TimerApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1525561697/TimerApp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1525561697/TimerApp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1168027321/TimerApp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1168027321/TimerApp.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>
